@@ -1,0 +1,27 @@
+<!doctype>
+<html>
+  <head>
+        <title>table</title>
+  </head>
+         <body>
+             <div>
+                <table>
+                    <caption>bsc students</caption>
+                    <tr>
+                        <th>s.no</th>
+                        <th>student name</th>
+                        <th>subject</th>
+                         <th>marks</th>
+                    </tr>
+                    <tr>
+                        <td> 1</td>
+                        <td>abc</td>
+                        <td>web page technology</td>
+                         <td> 80</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                         <td>xyz</td>
+                         <td>programing c</td>
+                         <td>60</td>
+                    </tr>
